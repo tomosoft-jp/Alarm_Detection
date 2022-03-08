@@ -1,7 +1,7 @@
 # Alarm_Detection
 Machine Alarm Detection in Factory
-The room ventilation monitoring system monitors room ventilation using M5Stack Core2 for AWS and Amazon Web Services, notifies the result.
+Machine Alarm Detection System is the detection of the machine alarm in the factory using Kria KV260 and Vitis-AI.
 
-![](https://github.com/tomosoft-jp/Room-Ventilation/blob/master/cover.png "") 
+![](https://github.com/tomosoft-jp/Alarm_Detection/blob/master/cover.png "") 
 
 This site is invoked from [hackster.io](https://www.hackster.io/contests/290/entries/13263/submit "hackster.io")
